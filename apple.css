@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.link {
+    color: blue;
+}
+.img {
+    width: 200px;
+    height: 200px;
+}

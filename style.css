@@ -1,8 +1,17 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
     text-align: center;
 }
-.img {
+.main-img {
     height: 100px;
     width: 100px;
+}
+.img {
+    width: 250px;
+    height: 200px;
+}
+.link {
+    color: blue;
 }
